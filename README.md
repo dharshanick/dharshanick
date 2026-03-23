@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:dharshanickm@gmail.com"><img src="https://img.shields.io/badge/dharshanickm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dharshanick-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/dharshanick"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,8 +59,8 @@ I am a final-year **Electronics and Communication Engineering** student with a s
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharshanick&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanick&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -73,4 +73,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dharshanick-m/
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profil
+  <img src="https://komarev.com/ghpvc/?username=dharshanick&label=Profile%20Views&color=0e75b6&style=flat" />
