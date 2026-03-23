@@ -3,8 +3,8 @@
 <h3 align="center">Aspiring Data Analyst | Final Year ECE Student | Salem, Tamil Nadu 🇮🇳</h3>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dharshanickm@gmail.com?subject=Opportunity%20for%20Dharshanick%20M%20-%20Data%20Analyst%20Role&body=Hi%20Dharshanick%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work%20in%20Data%20Analytics.%0A%0AI%20would%20love%20to%20discuss%20a%20potential%20opportunity%20with%20you.%0A%0APlease%20let%20me%20know%20your%20availability%20for%20a%20quick%20call.%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D%0A%5BCompany%20Name%5D"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dharshanick-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -68,10 +68,9 @@ I am a final-year **Electronics and Communication Engineering** student with a s
 ## 📫 Let's Connect
 
 I am open to **internship opportunities**, **freelance projects**, and **collaborative data projects**.
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-linkedin) or drop me an email.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dharshanick-m/) or drop me an email.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profil
