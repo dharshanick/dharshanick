@@ -1,76 +1,137 @@
+<h1 align="center">Hi, I'm Dharshanick M 👋</h1>
+
+<h3 align="center">📊 Data Analyst | 🤖 AI Analytics | 📈 Power BI | 🐍 Python | 🗄️ SQL</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=280&section=header&text=DHARSHANICK%20M&fontSize=55&fontColor=fff&animation=twinkling&desc=Data%20Analyst%20%7C%20Agentic%20AI%20Engineer&descSize=22&descAlignY=65" width="100%" alt="Hero Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+Developer;AI+Analytics+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dharshanick-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:dharshanickm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/dharshanick-m/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/dharshanick">
-    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+🚀 Passionate <b>Data Analyst</b> with hands-on internship experience at <b>iLink Systems</b>.
+</p>
+
+<ul>
+<li>📊 Skilled in Power BI, SQL, Python & Excel</li>
+<li>🤖 Built Agentic AI solutions using LLMs and RAG</li>
+<li>📈 Dashboard Development & KPI Reporting</li>
+<li>🔍 Data Cleaning, EDA & Business Intelligence</li>
+<li>🌍 Tamil Nadu, India</li>
+<li>💼 Open to Data Analyst & Business Analyst Opportunities</li>
+</ul>
+
+<hr>
+
+<h2>⚡ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharshanick&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
+
+<img src="https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-673AB7?style=for-the-badge"/>
+
 </p>
 
----
+<hr>
 
-## 🚀 Executive Summary
+<h2>💼 Experience</h2>
 
-[cite_start]Results-driven **Data Analyst** with 5 months of hands-on internship experience at **iLink Systems and Digital Solutions** [cite: 8, 15] [cite_start]specializing in SQL, Power BI, Python, and advanced AI-assisted analytics[cite: 8]. [cite_start]I bridge the gap between enterprise Business Intelligence and Generative AI pipelines [cite: 10, 40][cite_start], having architecture-designed end-to-end **Agentic AI** frameworks leveraging Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)[cite: 9]. [cite_start]Highly effective at structuring messy business metrics, managing critical database objects, and creating rich visual narratives to drive tactical executive decisions[cite: 10, 11].
+<h3>📊 Data Analyst Intern | iLink Systems</h3>
 
----
+<p>
+Jan 2026 - May 2026
+</p>
 
-## 🛠️ Tech Stack & Specialized Toolkit
+<ul>
+<li>✔ Developed Power BI dashboards and KPI reports</li>
+<li>✔ Automated reporting workflows</li>
+<li>✔ Performed data cleaning and validation</li>
+<li>✔ Supported AI-assisted analytics initiatives</li>
+<li>✔ Delivered actionable business insights</li>
+</ul>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data & Business Intelligence</h3>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/DAX-Data%20Modeling-yellow?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Power_Query-Data%20Mashing-green?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-      <br />
-      [cite_start]<code>Data Validation</code> <code>KPI Reporting</code> <code>ETL Architectures</code> <code>Reporting Automation</code> [cite: 36, 37, 38]
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Generative AI & Automation</h3>
-      <img src="https://img.shields.io/badge/Agentic_AI-238636?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-007acc?style=for-the-badge" />
-      <br />
-      <code>GenAI Architecture</code> <code>NLP Pipelines</code> <code>AI-Assisted Analytics</code> <code>Vector Embeddings</code> [cite: 29, 40]
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Programming & Databases</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Environments & Infrastructure</h3>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<hr>
 
----
+<h2>🚀 Featured Project</h2>
 
-## 💼 Core Professional Milestones
+<h3>🤖 Agentic AI for Investment Banking Research</h3>
 
-### 📈 iLink Systems and Digital Solutions
-[cite_start]**Data Analyst Intern** *(01/2026 - 05/2026)* [cite: 12, 14, 15]
+<p>
+<b>Client:</b> Evercore Inc.
+</p>
+
+<p>
+<b>Technologies:</b> Python, SQL, LLMs, RAG, Prompt Engineering
+</p>
+
+<ul>
+<li>📈 Reduced research effort by 60%</li>
+<li>📄 Processed 200+ financial reports</li>
+<li>🎯 Achieved 85% retrieval accuracy</li>
+<li>🤖 Automated financial intelligence workflows</li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dharshanick&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanick&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshanick&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+
+<h2>📫 Let's Connect</h2>
+
+<p align="center">
+<a href="mailto:dharshanickm@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/dharshanick-m/">💼 LinkedIn</a> •
+<a href="https://github.com/dharshanick">💻 GitHub</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dharshanick&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
