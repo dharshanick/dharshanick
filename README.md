@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dharshanick M 👋</h1>
 
-<h3 align="center">📊 Data Analyst | 🤖 AI Analytics | 📈 Power BI | 🐍 Python | 🗄️ SQL</h3>
+<h3 align="center">📊 Data Analyst | 🤖 Generative AI Engineer | 📈 Power BI | 🐍 Python | 🗄️ SQL | LLM • RAG • LangChain</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+Developer;AI+Analytics+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Generative+AI+Engineer;Power+BI+Developer;Python+%7C+SQL+Developer;LLM+%7C+RAG+%7C+LangChain;AI+Analytics+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -25,16 +25,17 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-🚀 Passionate <b>Data Analyst</b> with hands-on internship experience at <b>iLink Systems</b>.
+🚀 Passionate <b>Data Analyst & Generative AI Engineer</b> with hands-on internship experience at <b>iLink Systems</b>.
 </p>
 
 <ul>
 <li>📊 Skilled in Power BI, SQL, Python & Excel</li>
-<li>🤖 Built Agentic AI solutions using LLMs and RAG</li>
+<li>🤖 Building GenAI applications using LLMs, RAG, LangChain & Agentic AI</li>
 <li>📈 Dashboard Development & KPI Reporting</li>
 <li>🔍 Data Cleaning, EDA & Business Intelligence</li>
+<li>📚 Exploring AI Agents, Vector Databases & Prompt Engineering</li>
 <li>🌍 Tamil Nadu, India</li>
-<li>💼 Open to Data Analyst & Business Analyst Opportunities</li>
+<li>💼 Open to Data Analyst, GenAI Engineer & AI Analyst Opportunities</li>
 </ul>
 
 <hr>
@@ -59,13 +60,21 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Agentic_AI-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-E91E63?style=for-the-badge"/>
 
 </p>
 
@@ -89,13 +98,26 @@ Jan 2026 - May 2026
 
 <hr>
 
-<h2>🚀 Featured Project</h2>
+<h2>🚀 Featured Projects</h2>
 
-<h3>🤖 Agentic AI for Investment Banking Research</h3>
+<h3>🤖 DocuQuery AI – PDF Chatbot</h3>
 
 <p>
-<b>Client:</b> Evercore Inc.
+<b>Technologies:</b> Python, LangChain, Gemini, FAISS, Streamlit, RAG
 </p>
+
+<ul>
+<li>📄 Built a PDF Question Answering system using Retrieval-Augmented Generation (RAG)</li>
+<li>🔍 Implemented semantic search using FAISS vector database</li>
+<li>🤖 Integrated Gemini 2.5 Flash with LangChain</li>
+<li>💬 Developed an interactive Streamlit chat interface</li>
+<li>📚 Enabled intelligent document-based conversations</li>
+</ul>
+
+<h3>📊 Agentic AI for Investment Banking Research</h3>
+
+<p>
+<b>Client:</b> Evercore Inc.</p>
 
 <p>
 <b>Technologies:</b> Python, SQL, LLMs, RAG, Prompt Engineering
@@ -107,6 +129,16 @@ Jan 2026 - May 2026
 <li>🎯 Achieved 85% retrieval accuracy</li>
 <li>🤖 Automated financial intelligence workflows</li>
 </ul>
+
+<hr>
+
+<h2>🏆 Core Skills</h2>
+
+<p align="center">
+
+Python • SQL • Power BI • Excel • Data Analytics • Data Visualization • EDA • KPI Reporting • Business Intelligence • LLMs • Generative AI • LangChain • RAG • FAISS • Prompt Engineering • Agentic AI
+
+</p>
 
 <hr>
 
