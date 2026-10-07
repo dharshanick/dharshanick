@@ -1,20 +1,18 @@
 <h1 align="center">Hi, I'm Dharshanick M 👋</h1>
 
-<h3 align="center">📊 Data Analyst | 🤖 Generative AI Engineer | 📈 Power BI | 🐍 Python | 🗄️ SQL | LLM • RAG • LangChain</h3>
+<h3 align="center">📊 Data Analyst | 📈 Power BI | 📊 Tableau | 🐍 Python | 🗄️ SQL | 📗 Excel</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Generative+AI+Engineer;Power+BI+Developer;Python+%7C+SQL+Developer;LLM+%7C+RAG+%7C+LangChain;AI+Analytics+Enthusiast;Open+to+Work+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+Developer;Tableau+Developer;Python+%7C+SQL+Developer;Data+Visualization;Business+Intelligence;Data+Cleaning+%26+Analysis;Turning+Data+into+Insights" />
 </p>
 
 <p align="center">
   <a href="mailto:dharshanickm@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/dharshanick-m/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/dharshanick">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -25,118 +23,177 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-🚀 Passionate <b>Data Analyst & Generative AI Engineer</b> with hands-on internship experience at <b>iLink Systems</b>.
+🚀 I'm a <b>Data Analyst</b> focused on transforming raw data into meaningful insights, interactive dashboards and business reports that support data-driven decision making.
 </p>
 
 <ul>
-<li>📊 Skilled in Power BI, SQL, Python & Excel</li>
-<li>🤖 Building GenAI applications using LLMs, RAG, LangChain & Agentic AI</li>
-<li>📈 Dashboard Development & KPI Reporting</li>
-<li>🔍 Data Cleaning, EDA & Business Intelligence</li>
-<li>📚 Exploring AI Agents, Vector Databases & Prompt Engineering</li>
+<li>📊 Working as a <b>Data Analyst</b></li>
+<li>📈 Developing interactive dashboards using <b>Power BI</b> and <b>Tableau</b></li>
+<li>🗄️ Writing SQL queries for data extraction, transformation and analysis</li>
+<li>🐍 Using Python for data cleaning, analysis and automation</li>
+<li>📗 Working with Excel for data preparation, reporting and analysis</li>
+<li>🧹 Performing data cleaning, transformation and validation</li>
+<li>📊 Creating KPIs, reports and business dashboards</li>
+<li>🔍 Performing Exploratory Data Analysis (EDA)</li>
+<li>📈 Building meaningful data visualizations</li>
+<li>💡 Turning business data into actionable insights</li>
 <li>🌍 Tamil Nadu, India</li>
-<li>💼 Open to Data Analyst, GenAI Engineer & AI Analyst Opportunities</li>
 </ul>
 
 <hr>
 
-<h2>⚡ Tech Stack</h2>
+<h2>⚡ Data Analytics Tech Stack</h2>
+
+<h3>📊 Business Intelligence & Visualization</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 </p>
 
+<h3>🐍 Programming & Data Analysis</h3>
+
 <p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+<h3>🗄️ Databases & Querying</h3>
 
-<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+<h3>🔄 Data Preparation & BI</h3>
 
-<img src="https://img.shields.io/badge/Agentic_AI-673AB7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-E91E63?style=for-the-badge"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Power_Query-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETL-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-00897B?style=for-the-badge"/>
 </p>
 
 <hr>
 
-<h2>💼 Experience</h2>
+<h2>💼 Professional Experience</h2>
+
+<h3>📊 Data Analyst | Stackly</h3>
+
+<p>
+<b>2026 - Present</b>
+</p>
+
+<ul>
+<li>✔ Working on data analysis, reporting and business intelligence tasks</li>
+<li>✔ Developing interactive Power BI dashboards and reports</li>
+<li>✔ Performing data cleaning, transformation and validation</li>
+<li>✔ Using SQL for data extraction, querying and analysis</li>
+<li>✔ Using Excel for data preparation and business reporting</li>
+<li>✔ Creating KPIs and performance reports</li>
+<li>✔ Analyzing business data to identify trends and insights</li>
+<li>✔ Supporting data-driven business decisions through analytical reporting</li>
+</ul>
 
 <h3>📊 Data Analyst Intern | iLink Systems</h3>
 
 <p>
-Jan 2026 - May 2026
+<b>Jan 2026 - May 2026</b>
 </p>
 
 <ul>
 <li>✔ Developed Power BI dashboards and KPI reports</li>
-<li>✔ Automated reporting workflows</li>
 <li>✔ Performed data cleaning and validation</li>
-<li>✔ Supported AI-assisted analytics initiatives</li>
-<li>✔ Delivered actionable business insights</li>
+<li>✔ Worked with Excel and SQL for data analysis</li>
+<li>✔ Assisted with reporting and data visualization</li>
+<li>✔ Supported business analysis and insight generation</li>
 </ul>
 
 <hr>
 
 <h2>🚀 Featured Projects</h2>
 
-<h3>🤖 DocuQuery AI – PDF Chatbot</h3>
+<h3>📊 Sales & Business Intelligence Dashboard</h3>
 
 <p>
-<b>Technologies:</b> Python, LangChain, Gemini, FAISS, Streamlit, RAG
+<b>Tools:</b> Power BI • DAX • Power Query • Excel
 </p>
 
 <ul>
-<li>📄 Built a PDF Question Answering system using Retrieval-Augmented Generation (RAG)</li>
-<li>🔍 Implemented semantic search using FAISS vector database</li>
-<li>🤖 Integrated Gemini 2.5 Flash with LangChain</li>
-<li>💬 Developed an interactive Streamlit chat interface</li>
-<li>📚 Enabled intelligent document-based conversations</li>
+<li>📈 Developed an interactive dashboard for business performance analysis</li>
+<li>🧹 Cleaned and transformed raw datasets using Power Query</li>
+<li>📊 Created KPIs and analytical measures using DAX</li>
+<li>🔎 Implemented slicers, filters and drill-down functionality</li>
+<li>🗺️ Built Region → State → City hierarchical analysis</li>
+<li>💡 Created visualizations to identify sales trends and business insights</li>
 </ul>
 
-<h3>📊 Agentic AI for Investment Banking Research</h3>
+<h3>📊 Tableau Business Dashboard</h3>
 
 <p>
-<b>Client:</b> Evercore Inc.</p>
-
-<p>
-<b>Technologies:</b> Python, SQL, LLMs, RAG, Prompt Engineering
+<b>Tools:</b> Tableau • SQL • Excel
 </p>
 
 <ul>
-<li>📈 Reduced research effort by 60%</li>
-<li>📄 Processed 200+ financial reports</li>
-<li>🎯 Achieved 85% retrieval accuracy</li>
-<li>🤖 Automated financial intelligence workflows</li>
+<li>📊 Created interactive Tableau dashboards for business analysis</li>
+<li>📈 Developed charts and visualizations for KPI monitoring</li>
+<li>🔍 Analyzed trends, categories and business performance</li>
+<li>🎯 Used filters and interactive dashboard features</li>
+</ul>
+
+<h3>🐍 Python Data Analysis</h3>
+
+<p>
+<b>Tools:</b> Python • Pandas • NumPy • Matplotlib
+</p>
+
+<ul>
+<li>🧹 Cleaned and prepared datasets using Pandas</li>
+<li>🔍 Performed exploratory data analysis</li>
+<li>📊 Created analytical visualizations</li>
+<li>📈 Identified trends, patterns and data quality issues</li>
+</ul>
+
+<h3>🗄️ SQL Data Analysis</h3>
+
+<p>
+<b>Tools:</b> SQL • MySQL
+</p>
+
+<ul>
+<li>🗄️ Wrote SQL queries for data extraction and analysis</li>
+<li>🔗 Used joins, aggregations and subqueries</li>
+<li>📊 Performed filtering, grouping and sorting of datasets</li>
+<li>📈 Generated analytical results for reporting</li>
 </ul>
 
 <hr>
 
-<h2>🏆 Core Skills</h2>
+<h2>🏆 Core Data Analyst Skills</h2>
 
 <p align="center">
 
-Python • SQL • Power BI • Excel • Data Analytics • Data Visualization • EDA • KPI Reporting • Business Intelligence • LLMs • Generative AI • LangChain • RAG • FAISS • Prompt Engineering • Agentic AI
+<b>Data Analysis</b> •
+<b>Data Cleaning</b> •
+<b>Data Transformation</b> •
+<b>Exploratory Data Analysis</b> •
+<b>Data Visualization</b> •
+<b>Dashboard Development</b> •
+<b>KPI Reporting</b> •
+<b>Business Intelligence</b> •
+<b>SQL</b> •
+<b>Python</b> •
+<b>Power BI</b> •
+<b>Tableau</b> •
+<b>Excel</b> •
+<b>Power Query</b> •
+<b>DAX</b> •
+<b>MySQL</b> •
+<b>Pandas</b> •
+<b>NumPy</b> •
+<b>Business Insights</b>
 
 </p>
 
